@@ -1,6 +1,4 @@
 # NEIVAv1.1
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12675193.svg)](https://doi.org/10.5281/zenodo.12675193)
-
 An emission factor compilation developed from NEIVA1.0 specifically for GFEDv5.
 
 ## Organization of the repository
